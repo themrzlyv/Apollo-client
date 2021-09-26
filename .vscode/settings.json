@@ -1,0 +1,5 @@
+{
+  "alias-resolver.file": "config/webpack.config.js",
+  "alias-resolver.type": "webpack",
+  "alias-resolver.accessPath": ""
+}
